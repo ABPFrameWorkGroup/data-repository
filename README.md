@@ -1,5 +1,6 @@
 ===========================
 C# DataRepository to MySQL!
+这是一个试用仓储Repository的ado.net库
 ===========================
 
 An pretty simple, and easy form to use ADO .NET C#
